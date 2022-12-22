@@ -1,0 +1,25 @@
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.serial {
+    padding: 20px 40px;
+    background-color: #ddd;
+    border-radius: 5px;
+    width: 200px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+}
+.btn {
+    padding: 10px 15px;
+    margin: 15px auto;
+    background-color: #f44336;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    user-select: none
+}
